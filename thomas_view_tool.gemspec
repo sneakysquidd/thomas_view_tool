@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{This gem helps with view methods.}
   spec.description   = %q{Provides generated HTML.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/sneakysquidd/thomas_view_tool"
 
  
 
